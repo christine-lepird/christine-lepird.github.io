@@ -20,16 +20,16 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: csowa@andrew.cmu.edu
-  facebook: https://www.facebook.com/christine.sowa
+  facebook: christine.sowa
   github: cmsowa
   instagram: xtinesowa
-  linkedin: https://www.linkedin.com/in/christine-sowa/
+  linkedin: christine-sowa/
   rss: # just type anything here for a working RSS icon
   twitter: christine_owl
   
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.cmsowa.me
+url: http://www.christinesowa.me
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
