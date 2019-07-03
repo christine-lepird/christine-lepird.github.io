@@ -72,6 +72,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
 
 theme: jekyll-theme-slate
