@@ -3,7 +3,7 @@ layout: page
 title: Welcome!
 ---
 
-I am a Societal Computing PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html) in the [School of Computer Scieince](https://www.cs.cmu.edu). I am advised by [Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) in [CASOS](http://casos.cs.cmu.edu). I do [research](/research) in the field of network science for the Department of Defense.  You can read more about my group's work on [Social Cyber Security.](https://www.social-cybersecurity.org)
+I am a Societal Computing PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu). I am advised by [Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) in [CASOS](http://casos.cs.cmu.edu). I do [research](/research) in the field of network science for the Department of Defense.  You can read more about my group's work on [Social Cyber Security.](https://www.social-cybersecurity.org)
 
 Prior to CMU, I worked for the [Johns Hopkins University Applied Physics Lab](https://www.jhuapl.edu/) where I earned my masters in Computer Science at night. I also worked as a data scientist at [Wayfair](www.wayfair.com) where I created recommendation systems.
 
