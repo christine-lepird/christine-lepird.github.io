@@ -15,10 +15,10 @@ I am always excited to meet new people and hear about new ideas and opportunitie
 
 <div class="feeds clearfix">
   <div class="feed-container">
-      <a class="twitter-timeline" href="https://twitter.com/davidthewid" data-tweet-limit="2">Tweets by davidthewid</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <a class="twitter-timeline" href="https://twitter.com/christine_owl" data-tweet-limit="2">Tweets by Christine</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
       <!-- <a class="twitter-timeline"
-        href="https://twitter.com/DavidTheWid">
-      Tweets by @DavidTheWid
+        href="https://twitter.com/christine_owl">
+      Tweets by @Christine_Owl
       </a> -->
     </div>  
 </div>
