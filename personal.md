@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Recreation
-permalink: /recreation/
+title: Personal
+permalink: /personal/
 ---
 
 In addition to my research interests, I enjoy swimming, biking and reading.
