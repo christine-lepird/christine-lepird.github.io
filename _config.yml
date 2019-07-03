@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: David Gray Widder
+name: Christine Marie Sowa
 
 # Short bio or description (displayed in the header)
 description: Computer Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/portrait.jpg
+avatar: /images/0.jpg
 
 #
 # Flags below are optional
@@ -19,30 +19,17 @@ excerpt_separator: <!--more-->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: dwidder@uoregon.edu
-  facebook:
-  flickr:
-  github: dwidder
-  instagram:
-  linkedin:
-  pinterest:
+  email: csowa@andrew.cmu.edu
+  facebook:https://www.facebook.com/christine.sowa
+  github: cmsowa
+  instagram: xtinesowa
+  linkedin: https://www.linkedin.com/in/christine-sowa/
   rss: # just type anything here for a working RSS icon
-  twitter: davidthewid
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: dwidder
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-93892725-1
-
+  twitter: christine_owl
+  
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.davidwidder.me
+url: http://www.cmsowa.me
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
