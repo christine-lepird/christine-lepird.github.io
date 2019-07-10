@@ -16,4 +16,4 @@ When St. Mary of the Mount and Prince of Peace Parish of Southside merged, I was
 
 ### Cat Fostering
 
-In addition to my two tabby cats, I've been fostering two elderly cats.  
+In addition to our two tabby cats, I've been fostering two elderly cats with my wonderful fiancé Jack.
