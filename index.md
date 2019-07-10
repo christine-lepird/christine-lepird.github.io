@@ -3,11 +3,11 @@ layout: page
 title: Welcome!
 ---
 
-I am a Societal Computing PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu). I am advised by [Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) in [CASOS](http://casos.cs.cmu.edu). I do [research](/research) in the field of network science for the Department of Defense.  You can read more about my group's work on [Social Cyber Security.](https://www.social-cybersecurity.org)
+I am a Societal Computing PhD student at Carnegie Mellon University’s [Institute for Software Research](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu). I am advised by [Dr. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) in [CASOS](http://casos.cs.cmu.edu). I do [research](/research) in the field of network science for the Department of Defense.  You can read more about my group's work on [Social Cyber Security.](https://www.social-cybersecurity.org)
 
-Prior to CMU, I worked for the [Johns Hopkins University Applied Physics Lab](https://www.jhuapl.edu/) where I earned my masters in Computer Science at night. I also worked as a data scientist at [Wayfair](www.wayfair.com) where I created recommendation systems.
+Prior to CMU, I worked for the [Johns Hopkins University Applied Physics Lab](https://www.jhuapl.edu/) where I earned my masters in [Computer Science](https://engineering.jhu.edu/fields-of-study/computer-science/) at night. I also worked as a data scientist at [Wayfair](www.wayfair.com) where I created recommender systems for their brand [Joss & Main](https://www.jossandmain.com/).
 
-I earned my BS in June 2014 from  [MIT](http://mit.edu) where I double majored in Mathematics in the School of Arts and Sciences and Management Operations Research in the Sloan School of Management, and was advised by [Professor John Little](https://mitsloan.mit.edu/faculty/directory/john-d-c-little).
+I earned my BS in June 2014 from  [MIT](http://mit.edu) where I double majored in [Mathematics](https://math.mit.edu/) in the School of Arts and Sciences and Management Operations Research in the Sloan School of Management, and was advised by [Professor John Little](https://mitsloan.mit.edu/faculty/directory/john-d-c-little).
 
 I was raised in [Media, Pennsylvania](https://visitmediapa.com/) with my two older brothers. 
 
