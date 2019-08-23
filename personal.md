@@ -20,4 +20,4 @@ I am the alumni class secreatary for [MIT's class of 2014](http://2014.alumclass
 
 ### Cat Fostering
 
-In addition to our two tabby cats, I've been fostering two elderly cats with my wonderful fiancé Jack.
+In addition to our two tabby cats, I've been fostering two elderly cats with my wonderful husband Jack.
