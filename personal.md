@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-In addition to my research interests, I enjoy swimming, biking and reading.
+In addition to my research interests, I enjoy swimming, biking and reading. I have an amazing husband, Jack, who works for Amazon building the artificial intelligence behind Alexa. Together, we have two tabby cats, a puppy, and a 100-year-old house where we spend our weekends doing countless renovations.
 
 ### STEM Demos
 
