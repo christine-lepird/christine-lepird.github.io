@@ -16,5 +16,3 @@ My primary area of research is in social network analysis - a field of study tha
 
 * INSNA 2017 NASN Conference: Presented independent research project into cross-network sentiment analysis analyzing
 social balance theory on Reddit.
-
-* INSNA 2016 Sunbelt Conference: Presented a novel approach, called trusses, for measuring ties in a social network.
