@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-In addition to my research interests, I enjoy swimming, biking and reading. I have an amazing husband, Jack, who works for Amazon building the artificial intelligence behind Alexa. Together, we have two tabby cats, a puppy, and a 100-year-old house where we spend our weekends doing countless renovations.
+In addition to my research interests, I enjoy swimming, biking and reading. I have an amazing husband, Jack, who works for Amazon building the artificial intelligence behind Alexa. Together, we have two tabby cats, a puppy, and a 100-year-old house where we spend our weekends doing countless projects.
 
 ### STEM Demos
 
@@ -16,8 +16,4 @@ When St. Mary of the Mount and Prince of Peace Parish of Southside merged, I was
 
 ### Alumni Involvement
 
-I am the alumni class secreatary for [MIT's class of 2014](http://2014.alumclass.mit.edu/). I report on what the alumni from my class are up to in the [MIT Technology Review](https://www.technologyreview.com/)'s Class Notes section. Additionally, I interview prospective undergraduate students in the Pittsburgh area as part of the application process.  
-
-### Cat Fostering
-
-In addition to our two tabby cats, I've been fostering two elderly cats with my wonderful husband Jack.
+I am the alumni class president for MIT's class of 2014. Previously, I was the alumni class secreatary for [MIT's class of 2014](http://2014.alumclass.mit.edu/) from 2014-2019. I reported on what the alumni from my class are up to in the [MIT Technology Review](https://www.technologyreview.com/)'s Class Notes section. Additionally, I interview prospective undergraduate students in the Pittsburgh area as part of the application process.  
