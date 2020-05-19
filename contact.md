@@ -12,7 +12,7 @@ Email: [csowa@andrew.cmu.edu](mailto:csowa@andrew.cmu.edu)
 
 Snail mail:
 
-    Christine Sowa
+    Christine Sowa Lepird
     Carnegie Mellon University
     The Institute for Software Research
     Wean Hall 4125
