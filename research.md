@@ -20,4 +20,4 @@ My primary area of research is in social network analysis - a field of study tha
 social balance theory on Reddit.
 
 ### School Projects
-* I made this website[https://csowa-ids-final.weebly.com/] to analyze what the Russian Internet Research Agency was doing on Reddit around the time of the 2016 election for my Interactive Data Science class in the Fall of 2019.
+* I made [this website](https://csowa-ids-final.weebly.com/) to analyze what the Russian Internet Research Agency was doing on Reddit around the time of the 2016 election for my Interactive Data Science class in the Fall of 2019.
