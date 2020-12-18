@@ -13,8 +13,6 @@ Email: [csowa@andrew.cmu.edu](mailto:csowa@andrew.cmu.edu)
 Snail mail:
 
     Christine Sowa Lepird
-    Carnegie Mellon University
-    The Institute for Software Research
-    Wean Hall 4125
-    5000 Forbes Avenue
+    ISR - TCS Hall 430
+    4665 Forbes Avenue
     Pittsburgh, PA 15213  
