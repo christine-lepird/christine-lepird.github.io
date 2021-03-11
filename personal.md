@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-In addition to my research interests, I enjoy swimming, biking and reading. I have an amazing husband, [Jack](https://www.linkedin.com/in/jlepird/), who works for Argo AI building the artificial intelligence behind self-driving cars. Together, we have two tabby cats, a puppy, and a 100-year-old house where we spend our weekends doing countless projects.
+In addition to my research interests, I enjoy swimming, biking and reading. I have an amazing husband, [Jack](https://www.linkedin.com/in/jlepird/), who works for Argo AI building the artificial intelligence behind self-driving cars. Together, we have a daughter, two tabby cats, a puppy, and a 100-year-old house where we spend our weekends doing countless projects.
 
 ### STEM Demos
 
