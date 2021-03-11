@@ -6,7 +6,7 @@ permalink: /contact/
 
 Feel free to contact me with questions, research ideas, job offers, or jokes!
 
-Office: Wean 4125
+Office: TCS 430
 
 Email: [csowa@andrew.cmu.edu](mailto:csowa@andrew.cmu.edu)
 
