@@ -6,7 +6,7 @@ permalink: /contact/
 
 Feel free to contact me with questions, research ideas, job offers, or jokes!
 
-Office: TCS 430
+Office: TCS 416
 
 Email: [csowa@andrew.cmu.edu](mailto:csowa@andrew.cmu.edu)
 
