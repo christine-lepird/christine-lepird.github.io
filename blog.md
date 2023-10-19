@@ -22,16 +22,5 @@ I'll be presenting at the [SBP-Brims](https://sbp-brims.org/2023/) and [IDeaS](h
 
 Back in 2020, my department at CMU interviewed me about my research and what information I would share with potential applicants to the PhD program. You can find the video here:
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=OWnpGMSsIB )
-
-
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=OWnpGMSsIB4"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![PhD Program Feature](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOWnpGMSsIB4)](https://www.youtube.com/watch?v=OWnpGMSsIB4)
 
