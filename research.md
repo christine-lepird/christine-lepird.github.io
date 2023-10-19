@@ -7,11 +7,15 @@ permalink: /research/
 
 ### Social Network Analysis
 
-My primary area of research is in social network analysis - a field of study that investigates social structures through ties of various strengths. While the field has been around for decades, I am excited to apply the principles to newer platforms, like Reddit and Facebook, to differentiate between organic communities and malicious networks that post misinformation. One of my main topics of study is pink slime, a type of inauthentic local news that has been spreading across the United States news ecosystem. 
+My primary area of research is in social network analysis - a field of study that investigates social structures through ties of various strengths. While the field has been around for decades, I am excited to apply the principles to newer platforms, like Reddit and Facebook, to differentiate between organic communities and malicious networks that post misinformation. One of my main topics of study is pink slime, a type of inauthentic local news that has been spreading across the United States online news ecosystem. 
 
 As you might notice from my Github, I program in Python, but I particularly enjoy doing data analysis and app development (Shiny) in R. Most of my cursory data exploration is in hasty SQL queries which I typically forget to clean and comment before committing (sorry).
 
 ### Conference Talks and Publications
+* Christine Lepird, Anna Wu, and Kathleen M. Carley. CFlying Under the Radar : How Smaller Social Media Groups Are More Susceptible to Misinformation. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
+ 
+* Christine Lepird and Kathleen M. Carley. Comparison of Online Maneuvers by Authentic and Inauthentic Local News Organizations. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
+ 
 * Catherine King, Christine Sowa Lepird, and Kathleen M. Carley, 2021, Project OMEN: Designing a Training Game to Fight Misinformation on Social Media. Carnegie Mellon University, School of Computer Science, Institute for Software Research, Pittsburgh, Pennsylvania, Technical Report CMU-ISR-21-110.
 
 * Sowa, Christine and Carley, Kathleen M. (2020). The Russian Strategy for Interference and Influence on Reddit: An Analysis of Infiltrating New Social Media Platforms.  In Proceedings of the International Conference SBP-BRiMS 2020,  Washington DC, October 2020, Springer.
