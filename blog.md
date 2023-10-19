@@ -11,7 +11,7 @@ Back in 2020, my department at CMU interviewed me about my research and what inf
 <iframe
     width="640"
     height="480"
-    src="[https://www.youtube.com/embed/UmX4kyB2wfg](https://www.youtube.com/watch?v=OWnpGMSsIB4)"
+    src="https://www.youtube.com/watch?v=OWnpGMSsIB4"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
