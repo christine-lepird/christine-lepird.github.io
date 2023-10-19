@@ -29,7 +29,7 @@ In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Le
 * INSNA 2017 NASN Conference: Presented independent research project into cross-network sentiment analysis analyzing social balance theory on Reddit.
 
 ### Teaching and Mentoring
-* During the Spring 2023 semester, I TA'd Dynamic Network Analysis under Prof. Kathleen M. Carley at CMU.
+* During the Spring 2023 semester, I TA'd [Dynamic Network Analysis](https://www.cmu.edu/ideas-social-cybersecurity/courses/19-640.html) under Prof. Kathleen M. Carley at CMU.
 * In the Summer of 2023, I supervised an intern who I collaborated with to analyze social media news sharing during the 2022 U.S. Midterms. I've enjoyed mentoring two more interns when I was a researcher at JHU APL. 
 
 ### School Projects
