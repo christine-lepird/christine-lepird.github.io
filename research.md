@@ -11,6 +11,8 @@ My primary area of research is in social network analysis - a field of study tha
 
 As you might notice from my Github, I program in Python, but I particularly enjoy doing data analysis and app development (Shiny) in R. Most of my cursory data exploration is in hasty SQL queries which I typically forget to clean and comment before committing (sorry).
 
+In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Lepird - if you come across publications under either name that you like, it's likely written by me (if you don't like the paper, I'm willing to pretend I don't know the other Christine who authored it).
+
 ### Conference Talks and Publications
 * Christine Lepird, Anna Wu, and Kathleen M. Carley. Flying Under the Radar : How Smaller Social Media Groups Are More Susceptible to Misinformation. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
  
