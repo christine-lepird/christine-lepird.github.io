@@ -12,7 +12,7 @@ My primary area of research is in social network analysis - a field of study tha
 As you might notice from my Github, I program in Python, but I particularly enjoy doing data analysis and app development (Shiny) in R. Most of my cursory data exploration is in hasty SQL queries which I typically forget to clean and comment before committing (sorry).
 
 ### Conference Talks and Publications
-* Christine Lepird, Anna Wu, and Kathleen M. Carley. CFlying Under the Radar : How Smaller Social Media Groups Are More Susceptible to Misinformation. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
+* Christine Lepird, Anna Wu, and Kathleen M. Carley. Flying Under the Radar : How Smaller Social Media Groups Are More Susceptible to Misinformation. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
  
 * Christine Lepird and Kathleen M. Carley. Comparison of Online Maneuvers by Authentic and Inauthentic Local News Organizations. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
  
