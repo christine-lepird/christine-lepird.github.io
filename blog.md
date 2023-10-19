@@ -5,3 +5,16 @@ permalink: /blog/
 ---
 
 I've created a blog to highlight some of my recent research. Feel free to follow along or email [me](mailto:csowa@andrew.cmu.edu) your thoughts.
+
+Back in 2020, my department at CMU interviewed me about my research and what information I would share with potential applicants to the PhD program. You can find the video here:
+
+<iframe
+    width="640"
+    height="480"
+    src="[https://www.youtube.com/embed/UmX4kyB2wfg](https://www.youtube.com/watch?v=OWnpGMSsIB4)"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
