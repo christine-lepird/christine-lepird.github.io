@@ -13,6 +13,6 @@ Email: [csowa@andrew.cmu.edu](mailto:csowa@andrew.cmu.edu)
 Snail mail:
 
     Christine Sowa Lepird
-    ISR - TCS Hall 416
+    S3D - TCS Hall 416
     4665 Forbes Avenue
     Pittsburgh, PA 15213  
