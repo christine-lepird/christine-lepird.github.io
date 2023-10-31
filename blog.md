@@ -9,14 +9,14 @@ I've created a blog to highlight some of my recent research. Feel free to follow
 # 2023
 
 ### November
-I'll be attending the [Tech Ethics Symposium](https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php) in Pittsburgh November 9-10. Let me know if you'll be attending!
+I'll be attending the [Tech Ethics Symposium](https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php) in Pittsburgh November 9-10 and presenting my poster on automated local news. Let me know if you'll be attending!
 
 ### October
-I'll be attending the [Post-API Conference](https://sites.google.com/umich.edu/postapiconference/home) in Philadelphia October 22. Let me know if you'll be attending!
+I attended the [Post-API Conference](https://sites.google.com/umich.edu/postapiconference/home) in Philadelphia. I enjoyed the trip to my hometown and getting to hear from other researchers about how they're handling the changing social media data landscape. 
 
 ### September
 
-I'll be presenting at the [SBP-Brims](https://sbp-brims.org/2023/) and [IDeaS](https://www.cmu.edu/ideas-social-cybersecurity/events/conference-index.html) Conferences in Pittsburgh September 20-22. Let me know if you'll be attending!
+I presented at the [SBP-Brims](https://sbp-brims.org/2023/) and [IDeaS](https://www.cmu.edu/ideas-social-cybersecurity/events/conference-index.html) Conferences in Pittsburgh September 20-22. 
 
 # 2020
 
