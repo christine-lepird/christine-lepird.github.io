@@ -9,6 +9,11 @@ I've created a blog to highlight some of my recent research. Feel free to follow
 # 2023
 
 ### November
+I created the following images along with Matt Hicks and the support of the IDeaS Center at CMU to help spread guidance on spotting disinformation and auto-generated content.
+![How to Spot Disinformation](/images/signs_of_disinfo_image.jpg){:class="img-responsive"} and ![How to Spot GenAI Content](/images/signs_of_generative-ai_image.jpg){:class="img-responsive"}
+
+
+
 I'll be attending the [Tech Ethics Symposium](https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php) in Pittsburgh November 9-10 and presenting my poster on automated local news. Let me know if you'll be attending!
 
 ### October
