@@ -19,6 +19,8 @@ I'll be attending the [Tech Ethics Symposium](https://www.duq.edu/research/cente
 ![Ethics in AI Poster](/images/Lepird Ethics Poster.pptx.jpg){:class="img-responsive"}
 
 
+
+
 ### October
 I attended the [Post-API Conference](https://sites.google.com/umich.edu/postapiconference/home) in Philadelphia. I enjoyed the trip to my hometown and getting to hear from other researchers about how they're handling the changing social media data landscape. 
 
