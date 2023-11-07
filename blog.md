@@ -14,7 +14,10 @@ I created the following images along with Matt Hicks and the support of the IDea
 
 
 
-I'll be attending the [Tech Ethics Symposium](https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php) in Pittsburgh November 9-10 and presenting my poster on automated local news. Let me know if you'll be attending!
+I'll be attending the [Tech Ethics Symposium](https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php) in Pittsburgh November 9-10 and presenting my poster on automated local news (below). Let me know if you'll be attending!
+
+![Ethics in AI Poster](/images/Lepird Ethics Poster.pptx.jpg){:class="img-responsive"}
+
 
 ### October
 I attended the [Post-API Conference](https://sites.google.com/umich.edu/postapiconference/home) in Philadelphia. I enjoyed the trip to my hometown and getting to hear from other researchers about how they're handling the changing social media data landscape. 
