@@ -14,7 +14,7 @@ I created the following images along with Matt Hicks and the support of the IDea
 
 
 
-I'll be attending the [Tech Ethics Symposium](https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php) in Pittsburgh November 9-10 and presenting my poster on automated local news (below). Let me know if you'll be attending!
+I attended the [Tech Ethics Symposium](https://www.duq.edu/research/centers-and-institutes/grefenstette-center/grefenstette-symposium.php) in Pittsburgh November 9-10 and presented my poster on automated local news (below). I ended up winning best graduate student poster!
 
 ![Ethics in AI Poster](/images/ethis_poster.jpg){:class="img-responsive"}
 
