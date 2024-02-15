@@ -11,7 +11,7 @@ My primary area of research is in social network analysis - a field of study tha
 
 As you might notice from my Github, I program in Python, but I particularly enjoy doing data analysis and app development (Shiny) in R. Most of my cursory data exploration is in hasty SQL queries which I typically forget to clean and comment before committing (sorry).
 
-In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Lepird - if you come across publications under either name that you like, it's likely written by me (if you don't like the paper, I'm willing to pretend I don't know the other Christine who authored it).
+In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Lepird - if you come across publications under either name that you like, it's likely written by me.
 
 ### Conference Talks and Publications
 * Christine Lepird, Anna Wu, and Kathleen M. Carley. Flying Under the Radar : How Smaller Social Media Groups Are More Susceptible to Misinformation. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
@@ -27,6 +27,9 @@ In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Le
 * SBP-BRiMS 2019: Fake News on Reddit: Spreading Disinformation to Diverse Communities. 
 
 * INSNA 2017 NASN Conference: Presented independent research project into cross-network sentiment analysis analyzing social balance theory on Reddit.
+
+# Thesis Work
+My thesis proposal will be held on February 26, 2024. The accompanying document can be found <a href="/images/FINAL_LEPIRD_PROPOSAL.pdf" target="_blank">here </a>.
 
 ### Teaching and Mentoring
 * During the Spring 2023 semester, I TA'd [Dynamic Network Analysis](https://www.cmu.edu/ideas-social-cybersecurity/courses/19-640.html) under Prof. Kathleen M. Carley at CMU.
