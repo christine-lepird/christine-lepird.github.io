@@ -6,6 +6,20 @@ permalink: /blog/
 
 I've created a blog to highlight some of my recent research. Feel free to follow along or email [me](mailto:csowa@andrew.cmu.edu) your thoughts.
 
+# 2024
+
+### September
+I'll be presenting my paper "Local News Hijacking: A Review of International Instances" at the IDeaS conference September 18-20 at Carnegie Mellon University. I'll also be in attendance of the SBP-BRiMS 2024 conference presenting a poster titled "Comparing Social-cyber Maneuvers Across Platforms and News Types During the 2022 U.S. Midterm Election." 
+
+I will also be presenting my research on threats to local news at a panel on a Disinformation Day pannel on September 26 at Carnegie Mellon University. 
+
+### April
+My paper, "What News Is Shared Where and How: A Multi-Platform Analysis of News Shared During the 2022 U.S. Midterm Elections" was published in Social Media + Society! You can read the paper [here](https://journals.sagepub.com/doi/full/10.1177/20563051241245950), or you can read the blog post I created for it [on the IDeaS website](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-lepird-news-types.html).
+
+### February
+I successfully proposed my thesis! To read more about it, you can read the document <a href="/lepird_proposal.pdf" target="_blank">here </a>.
+
+
 # 2023
 
 ### November
