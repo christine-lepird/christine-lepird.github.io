@@ -14,7 +14,7 @@ I'll be presenting my paper "Local News Hijacking: A Review of International Ins
 I will also be presenting my research on threats to local news at a panel on a Disinformation Day pannel on September 26 at Carnegie Mellon University. 
 
 ### April
-My paper, "What News Is Shared Where and How: A Multi-Platform Analysis of News Shared During the 2022 U.S. Midterm Elections" was published in Social Media + Society! You can read the paper [here](https://journals.sagepub.com/doi/full/10.1177/20563051241245950), or you can read the blog post I created for it [on the IDeaS website](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-lepird-news-types.html).
+My paper, "What News Is Shared Where and How: A Multi-Platform Analysis of News Shared During the 2022 U.S. Midterm Elections" was published in Social Media + Society! You can read the paper [here](https://journals.sagepub.com/doi/full/10.1177/20563051241245950), or you can read the blog post I created for it [on the IDeaS website](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-lepird-news-types.html). I'm particularly proud of this paper for a few reasons, but mostly I think it is important in defining the "Big 4 News Types" - low credibility news, real news, pink slime, and local news - on a grid of scope and credibility.
 
 ### February
 I successfully proposed my thesis! To read more about it, you can read the document <a href="/lepird_proposal.pdf" target="_blank">here </a>. I plan to defend the thesis in November of this year. 
