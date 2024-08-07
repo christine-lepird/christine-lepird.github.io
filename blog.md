@@ -17,7 +17,7 @@ I will also be presenting my research on threats to local news at a panel on a D
 My paper, "What News Is Shared Where and How: A Multi-Platform Analysis of News Shared During the 2022 U.S. Midterm Elections" was published in Social Media + Society! You can read the paper [here](https://journals.sagepub.com/doi/full/10.1177/20563051241245950), or you can read the blog post I created for it [on the IDeaS website](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-lepird-news-types.html).
 
 ### February
-I successfully proposed my thesis! To read more about it, you can read the document <a href="/lepird_proposal.pdf" target="_blank">here </a>.
+I successfully proposed my thesis! To read more about it, you can read the document <a href="/lepird_proposal.pdf" target="_blank">here </a>. I plan to defend the thesis in November of this year. 
 
 
 # 2023
