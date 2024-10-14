@@ -29,7 +29,8 @@ In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Le
 * INSNA 2017 NASN Conference: Presented independent research project into cross-network sentiment analysis analyzing social balance theory on Reddit.
 
 # Thesis Work
-My thesis proposal will be held on February 26, 2024. The accompanying document can be found <a href="/lepird_proposal.pdf" target="_blank">here </a>.
+My thesis defense will be held on November 7, 2024. The accompanying document can be found <a href="/Lepird_Thesis_Oct2024.pdf" target="_blank">here </a>.
+My thesis proposal was held on February 26, 2024. The accompanying document can be found <a href="/lepird_proposal.pdf" target="_blank">here </a>.
 
 ### Teaching and Mentoring
 * During the Spring 2023 semester, I TA'd [Dynamic Network Analysis](https://www.cmu.edu/ideas-social-cybersecurity/courses/19-640.html) under Prof. Kathleen M. Carley at CMU.
