@@ -14,7 +14,7 @@ November was a busy month for me! On the 7th, I successfully defended my PhD the
 Two weeks later, I gave birth to my second baby! I'm spending the rest of 2024 on maternity leave but will be back in the office in 2025. Some things I'm excited to do: publish my international instances of local news hijacking paper, finish a paper with a colleague on URL backlinks to pink slime sites discussing news diversity, and publish a paper analyzing all of the ads pink slime sites have purchased on Meta platforms since 2018. 
 
 ### October
-My paper, "Non-credibility scores: Relative ranking of news sites shared on social media to identify new pink slime sites" was published in First MOnday! You can read the paper [here](https://firstmonday.org/ojs/index.php/fm/article/view/13544)!
+My paper, "Non-credibility scores: Relative ranking of news sites shared on social media to identify new pink slime sites" was published in First Monday! You can read the paper [here](https://firstmonday.org/ojs/index.php/fm/article/view/13544)!
 
 ### September
 I'll be presenting my paper "Local News Hijacking: A Review of International Instances" at the IDeaS conference September 18-20 at Carnegie Mellon University. I'll also be in attendance of the SBP-BRiMS 2024 conference presenting a poster titled "Comparing Social-cyber Maneuvers Across Platforms and News Types During the 2022 U.S. Midterm Election." 
