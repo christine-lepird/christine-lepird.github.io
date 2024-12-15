@@ -8,7 +8,7 @@ I've created a blog to highlight some of my recent research. Feel free to follow
 
 # 2024
 
-## November
+### November
 November was a busy month for me! On the 7th, I successfully defended my PhD thesis. I have some minor revisions to make, but you can see the current version <a href="/Lepird_Thesis_Oct2024.pdf" target="_blank">here </a>. 
 
 Two weeks later, I gave birth to my second baby! I'm spending the rest of 2024 on maternity leave but will be back in the office in 2025. Some things I'm excited to do: publish my international instances of local news hijacking paper, finish a paper with a colleague on URL backlinks to pink slime sites discussing news diversity, and publish a paper analyzing all of the ads pink slime sites have purchased on Meta platforms since 2018. 
