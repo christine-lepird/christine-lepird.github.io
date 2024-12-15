@@ -14,6 +14,12 @@ As you might notice from my Github, I program in Python, but I particularly enjo
 In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Lepird - if you come across publications under either name that you like, it's likely written by me.
 
 ### Conference Talks and Publications
+* Lepird, C. S., Ng, L. H. X., & Carley, K. M. (2024). Non-credibility scores: Relative ranking of news sites shared on social media to identify new pink slime sites. First Monday, 29(9). https://doi.org/10.5210/fm.v29i9.13544
+
+* Lepird, C. S., Ng, L. H. X., Wu, A., & Carley, K. M. (2024). What News Is Shared Where and How: A Multi-Platform Analysis of News Shared During the 2022 U.S. Midterm Elections. Social Media + Society, 10(2). https://doi.org/10.1177/20563051241245950
+
+* Lepird, C.S., Carley, K.M. Comparison of online maneuvers by authentic and inauthentic local news organizations. Comput Math Organ Theory (2024). https://doi.org/10.1007/s10588-024-09389-8
+
 * Christine Lepird, Anna Wu, and Kathleen M. Carley. Flying Under the Radar : How Smaller Social Media Groups Are More Susceptible to Misinformation. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
  
 * Christine Lepird and Kathleen M. Carley. Comparison of Online Maneuvers by Authentic and Inauthentic Local News Organizations. IDeaS Conference: Disinformation, Hate Speech, and Extremism Online. Pittsburgh, PA, September 2023.
