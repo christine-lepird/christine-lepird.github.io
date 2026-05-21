@@ -3,7 +3,9 @@ layout: page
 title: Welcome!
 ---
 
-I am a Societal Computing PhD student at Carnegie Mellon University’s [Software and Societal Systems Department (S3D)](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu). I am advised by [Dr. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) in [CASOS](http://casos.cs.cmu.edu). I do [research](/research) in the field of network science for the Department of Defense and receive funding as a Knight Fellow through the [Center for Informed Democracy & Social-cybersecurity (IDeaS)](https://www.cmu.edu/ideas-social-cybersecurity/).  You can read more about my group's work on [Social Cyber Security.](https://www.social-cybersecurity.org)
+I am a lecturer at Johns Hopkins University's Whiting School of Engineering where I co-teach a class on Crowdsourcing & Human Computation for masters students in Computer Science, and I'm developing a course on the Responsible Use of AI. 
+
+I recently earned my PhD in Societal Computing at Carnegie Mellon University’s [Software and Societal Systems Department (S3D)](http://isri.cmu.edu/index.html) in the [School of Computer Science](https://www.cs.cmu.edu) where I was advised by [Dr. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) in [CASOS](http://casos.cs.cmu.edu). I did [research](/research) in the field of network science for the Department of Defense and receive funding as a Knight Fellow through the [Center for Informed Democracy & Social-cybersecurity (IDeaS)](https://www.cmu.edu/ideas-social-cybersecurity/).  You can read more about my group's work on [Social Cyber Security.](https://www.social-cybersecurity.org)
 
 Prior to CMU, I worked for the [Johns Hopkins University Applied Physics Lab](https://www.jhuapl.edu/) where I earned my masters in [Computer Science](https://engineering.jhu.edu/fields-of-study/computer-science/) at night. I also worked as a data scientist at [Wayfair](www.wayfair.com) where I created recommender systems for their brand [Joss & Main](https://www.jossandmain.com/).
 
