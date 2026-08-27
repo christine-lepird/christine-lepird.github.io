@@ -6,6 +6,15 @@ permalink: /blog/
 
 I've created a blog to highlight some of my recent research. Feel free to follow along or email [me](mailto:csowa@andrew.cmu.edu) your thoughts.
 
+# 2026
+
+### August
+Realizing now that I haven't put any updates in here in a while. Since graduating, I have moved to the Philadelphia suburbs! I've published two more papers, (1) on [international instances of local news hijacking](https://link.springer.com/article/10.1007/s10588-026-09420-0) and (2) on [advertising spend trends of pink slime parent organizations](https://link.springer.com/article/10.1007/s10588-026-09419-7).
+
+I've been interviewed by local news outlets worried about pink slime in both the [UK](https://pressgazette.co.uk/news/dubious-uk-local-news-websites-russian-links-and-cash-for-coverage/) and in [Maine](https://www.pressherald.com/2026/08/26/inside-the-rise-of-maines-partisan-pink-slime-news-pages/?uuid=f5028eaf-4d45-41c0-b6df-d05dc7ff5aa5&lid=243212). 
+
+I have been teaching at Johns Hopkins Whiting School of Engineering for their online Masters in Computer Science program. Together with long-time collaborator Ian McCulloh, I've been developing Human in the Loop AI and Responsible AI courses. The new semester starts Monday so that will keep me busy :).
+
 # 2024
 
 ### November
