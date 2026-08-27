@@ -14,6 +14,11 @@ As you might notice from my Github, I program in Python, but I particularly enjo
 In 2020 I legally changed my name from Christine Marie Sowa to Christine Sowa Lepird - if you come across publications under either name that you like, it's likely written by me.
 
 ### Conference Talks and Publications
+
+* Lepird, C.S., Ng, L.H.X. & Carley, K.M. Pink slime journalism on Facebook: advertisement trends and political influence (2019–2024). Comput Math Organ Theory 32, 17 (2026). https://doi.org/10.1007/s10588-026-09419-7
+
+* Lepird, C.S., Carley, K.M. Local news hijacking: a review of international instances. Comput Math Organ Theory 32, 28 (2026). https://doi.org/10.1007/s10588-026-09420-0
+
 * Lepird, C. S., Ng, L. H. X., & Carley, K. M. (2024). Non-credibility scores: Relative ranking of news sites shared on social media to identify new pink slime sites. First Monday, 29(9). https://doi.org/10.5210/fm.v29i9.13544
 
 * Lepird, C. S., Ng, L. H. X., Wu, A., & Carley, K. M. (2024). What News Is Shared Where and How: A Multi-Platform Analysis of News Shared During the 2022 U.S. Midterm Elections. Social Media + Society, 10(2). https://doi.org/10.1177/20563051241245950
